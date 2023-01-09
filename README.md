@@ -1,12 +1,9 @@
-<code>🎓 Student: KPI / IM-11</code>
+<code>🎓 Student: KPI / IP-05</code>
 <code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>👷 Speciality: Fullstack</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++</code>
+<code>🧑‍💻 Languages: JavaScript, Python, Assembler, C++, Go</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>💬 telegram: [@berlin1776](https://t.me/berlin1776)</code>
+<code>📫 [your-email](mailto:1.slava.1.amelin.1@gmail.com)</code>
